@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **GoLang, Flutter**
 
-- 👨‍💻 All of my projects are available at [justraman.dev](justraman.dev)
-
-- 📝 I regularly write articles on [justraman.dev/blogs](justraman.dev/blogs)
+- 👨‍💻 All of my projects are available at [justraman.dev](https://justraman.dev)
 
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **me@justraman.dev**
 
-- 📄 Know about my experiences [justraman.dev/resume](justraman.dev/resume)
+- 📄 Know about my experiences [justraman.dev/resume](https://justraman.dev/resume.pdf)
 
 - ⚡ Fun fact **I thing i am not funny**
 
